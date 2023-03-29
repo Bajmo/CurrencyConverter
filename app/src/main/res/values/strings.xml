@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="input_field">Enter an amount</string>
+    <string name="button_text">Convert</string>
+    <string name="result_field">*</string>
+    <string-array name="currencies">
+        <item>MAD</item>
+        <item>USD</item>
+        <item>EUR</item>
+    </string-array>
+    <string name="amount_result">%1$s%2$s</string>
+</resources>
